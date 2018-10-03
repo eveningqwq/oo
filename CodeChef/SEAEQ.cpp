@@ -1,3 +1,7 @@
+/*
+  Fix the length of segment, and calculate the rest with dp and combinatorics.
+*/
+
 # include <bits/stdc++.h>
 
 # define y1 aasjdladljskdj
